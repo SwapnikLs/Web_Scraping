@@ -55,21 +55,10 @@ Owner Type
 
 Location
 
-▶️ How to Run
-Clone the repository:
-
-git clone https://github.com/yourusername/cars24-scraper.git
-cd cars24-scraper
-
-Install dependencies:
-pip install -r requirements.txt
-Run the script:
-
-
-python cars24_scraper.py
-⚠️ Make sure to have Chrome installed and download the matching version of ChromeDriver.
-
 📌 Notes
 This project is for educational and research purposes only.
 
 Scraping websites without permission may violate their terms of service. Always check their robots.txt and legal policies before scraping.
+⚠️ Make sure to have Chrome installed and download the matching version of ChromeDriver.
+
+
